@@ -1,0 +1,18 @@
+{
+    "name": "effiliation-api",
+    "version": "0.0.2",
+    "description": "API integration with Effiliation",
+    "author": "André Ferreira <andrehrf@gmail.com>",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/itsimpleapp/effiliation-api-nodejs"
+    },
+    "bugs": {
+        "url": "https://github.com/itsimpleapp/effiliation-api-nodejs/issues"
+    },
+    "homepage": "https://github.com/itsimpleapp/effiliation-api-nodejs",
+    "dependencies": {
+        "request": "^2.72.0"
+    }
+}
